@@ -15,7 +15,7 @@ It is strongly recommended that MCTs and Partners access these materials and in 
 To address general comments about the course and demos, or how to prepare for a course delivery, please use the existing MCT forums.
 
 ## Additional Resources
-
+1
 A user guide has been provided for MCTs who are new to GitHub. It provides steps for connecting to GitHub, downloading and printing course materials, updating the scripts that students use in labs, and explaining how you can help ensure that this course’s content remains current.
 
 <https://microsoftlearning.github.io/MCT-User-Guide/>
